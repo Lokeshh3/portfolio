@@ -4,9 +4,9 @@
 :root {
     /* Updated color palette */
     --primary-color: #4ecca3; /* Light teal */
-    --secondary-color: #393e46; /* Dark gray */
-    --accent-color: #f8b500; /* Bright yellow */
-    --background-color: #232931; /* Dark background */
+    --secondary-color: #269b43; /* Dark gray */
+    --accent-color: #357924; /* Bright yellow */
+    --background-color: #101110; /* Dark background */
     --text-color: #eeeeee; /* Light text */
     --button-hover-color: #32e0c4;
     --box-shadow-color: rgba(0, 0, 0, 0.2);

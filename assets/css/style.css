@@ -3,12 +3,12 @@
 \*-----------------------------------*/
 :root {
     /* Updated color palette */
-    --primary-color: #4ecca3; /* Light teal */
-    --secondary-color: #21ee54; /* Dark gray */
-    --accent-color: #357924; /* Bright yellow */
-    --background-color: #101110; /* Dark background */
+    --primary-color: #ccc44e; /* Light teal */
+    --secondary-color: #bfca24; /* Dark gray */
+    --accent-color: #d8c515; /* Bright yellow */
+    --background-color: #afa514; /* Dark background */
     --text-color: #eeeeee; /* Light text */
-    --button-hover-color: #32e0c4;
+    --button-hover-color: #e0dd32;
     --box-shadow-color: rgba(0, 0, 0, 0.2);
     
     /* Typography */

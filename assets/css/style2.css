@@ -11,7 +11,7 @@
   --bg-gradient-onyx: linear-gradient(
     to bottom right,
     hsl(59, 70%, 13%) 3%,
-    hsla(0, 0%, 0%, 0.425) 97%
+    hsla(0, 0%, 3%, 0.425) 97%
   );
   --bg-gradient-jet: linear-gradient(
       to bottom right,

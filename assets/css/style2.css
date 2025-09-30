@@ -10,51 +10,51 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right,
-    hsl(147, 70%, 13%) 3%,
+    hsl(59, 70%, 13%) 3%,
     hsla(0, 0%, 0%, 0.425) 97%
   );
   --bg-gradient-jet: linear-gradient(
       to bottom right,
-      hsla(240, 1%, 18%, 0.251) 0%,
-      hsla(240, 2%, 11%, 0) 100%
+      hsla(60, 1%, 18%, 0.251) 0%,
+      hsla(60, 4%, 11%, 0) 100%
     ),
-    hsla(159, 88%, 17%, 0.514);
+    hsla(59, 88%, 17%, 0.514);
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right,
-    hsl(140, 40%, 45%) 0%,
-    hsla(36, 100%, 69%, 0) 50%
+    hsl(54, 40%, 45%) 0%,
+    hsla(61, 100%, 69%, 0) 50%
   );
   --bg-gradient-yellow-2: linear-gradient(
       135deg,
-      hsla(133, 27%, 57%, 0.251) 0%,
-      hsla(35, 100%, 68%, 0) 59.86%
+      hsla(59, 27%, 57%, 0.251) 0%,
+      hsla(56, 100%, 68%, 0) 59.86%
     ),
-    hsl(150, 75%, 27%);
+    hsl(59, 75%, 27%);
   --border-gradient-onyx: linear-gradient(
     to bottom right,
-    hsl(140, 84%, 23%) 0%,
+    hsl(59, 85%, 23%) 0%,
     hsla(0, 0%, 25%, 0) 50%
   );
   --text-gradient-yellow: linear-gradient(
     to right,
-      hsl(143, 45%, 44%),
-    hsl(133, 34%, 37%)
+      hsl(64, 45%, 44%),
+    hsl(61, 34%, 37%)
   );
 
   /* solid */
 
-  --jet: hsla(137, 83%, 19%, 0.418);
-  --onyx: hsla(133, 92%, 19%, 0.473);
-  --eerie-black-1: hsla(141, 49%, 28%, 0.315);
-  --eerie-black-2: hsl(138, 79%, 13%);
-  --smoky-black: hsl(128, 58%, 22%);
+  --jet: hsla(64, 84%, 19%, 0.418);
+  --onyx: hsla(64, 92%, 19%, 0.473);
+  --eerie-black-1: hsla(61, 49%, 28%, 0.315);
+  --eerie-black-2: hsla(51, 63%, 19%, 0.418);
+  --smoky-black: hsl(51, 59%, 43%);
   --white-1: hsl(118, 52%, 90%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(103, 54%, 71%);
-  --vegas-gold: hsla(130, 70%, 75%, 0.801);
+  --orange-yellow-crayola: hsl(64, 54%, 71%);
+  --vegas-gold: hsla(59, 70%, 75%, 0.801);
   --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsl(133, 54%, 64%);
-  --bittersweet-shimmer: hsl(118, 27%, 50%);
+  --light-gray-70: hsl(64, 54%, 64%);
+  --bittersweet-shimmer: hsl(66, 27%, 50%);
 
   /**
    * typography
